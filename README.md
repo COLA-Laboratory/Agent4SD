@@ -99,6 +99,7 @@ A curated list of research papers on using Large Language Models/Agents for auto
 <tbody>
 <tr><td colspan="5" align="center"><strong>📅 2026</strong></td></tr>
 <tr><td>1</td><td>Kim, Yubin, et al. Capable Language Models Can Outgrow the Benefits of Collaboration.</td><td>Nature Machine Intelligence 2026</td><td><a href="https://www.nature.com/articles/s42256-026-01268-y">Paper</a></td><td><a href="https://github.com/ybkim95/agent-scaling">Code</a></td></tr>
+<tr><td>2</td><td>Wen, Jiaxin, et al. Automated Weak-to-Strong Researcher.</td><td>Anthropic Alignment Blog 2026 <code>Blog</code></td><td><a href="https://alignment.anthropic.com/2026/automated-w2s-researcher/">Paper</a></td><td><a href="https://github.com/safety-research/automated-w2s-research">Code</a></td></tr>
 </tbody>
 </table>
 
